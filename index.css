@@ -1,0 +1,68 @@
+body{
+  padding: 0;
+  box-sizing: border-box;
+width: 400px;
+  
+  margin: 0 15px ;
+}
+
+.body{
+  
+  display: flex;
+  justify-content: space-between;
+}
+#timer{
+  padding: 0;
+  margin: 30px 0 0 0;
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+h1{
+  text-align: center;
+  color: sandybrown;
+}
+
+input{
+  width: 95%;
+  border-radius: 20px;
+  border: 1px solid blue;
+  padding: 5px;
+}
+p{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  margin: 10px 35%;
+}
+
+.button:hover {
+  background-color: #3e8e41; /* Dark green */
+}
+
+
