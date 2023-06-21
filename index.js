@@ -325,7 +325,7 @@
     const eleQ = "In"
     const tweQ = "Put on"
     const thiQ = "Take off"
-    const foutQ = "Middle-age"
+    const foutQ = "Middle-aged"
     const fiftQ = "Toothache"
     const sixtQ = "Sneeze"
     const sevtQ = "Have a cold"
