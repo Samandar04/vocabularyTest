@@ -71,7 +71,7 @@
         second: `
         <div class="one-ques" >
        <p>Qiz bola jiyan</p>
-       <input id="two-ans " placeholder="You answer"   type="text"> 
+       <input id="two-ans" placeholder="You answer"   type="text"> 
       </div>
         `
       },
@@ -350,40 +350,40 @@
     btn.addEventListener('click', () => {
       const One = document.getElementById('one-ans').value;
       
-      const Two = document.getElementById('two-ans');
-      const Three = document.getElementById('three-ans');
-      const Four = document.getElementById('four-ans');
-      const Five = document.getElementById('fiv-ans');
-      const Six = document.getElementById('six-ans');
-      const Seven = document.getElementById('sev-ans');
-      const Eight = document.getElementById('eig-ans');
-      const Nine = document.getElementById('nin-ans');
-      const Ten = document.getElementById('ten-ans');
-      const Ele = document.getElementById('ele-ans');
-      const Twe = document.getElementById('twe-ans');
-      const thi = document.getElementById('thi-ans');
-      const fout = document.getElementById('fout-ans');
-      const fivt = document.getElementById('fivt-ans');
-      const sixt = document.getElementById('sixt-ans');
-      const sevt = document.getElementById('sevt-ans');
-      const eigt = document.getElementById('eigt-ans');
-      const nint = document.getElementById('nint-ans');
-      const Twen = document.getElementById('twen-ans');
-      const TweOne = document.getElementById('twe-one-ans');
-      const TweTwo = document.getElementById('twe-two-ans');
-      const TweThree = document.getElementById('twe-three-ans');
-      const TweFour = document.getElementById('twe-four-ans');
-      const TweFiv = document.getElementById('twe-fiv-ans');
-      const TweSix = document.getElementById('twe-six-ans');
-      const TweSev = document.getElementById('twe-sev-ans');
-      const TweEig = document.getElementById('twe-eig-ans');
-      const TweNin = document.getElementById('twe-nin-ans');
-      const Thirt = document.getElementById('thirt-ans');
-      const ThirtOne = document.getElementById('thirt-one-ans');
-      const ThirtTwo = document.getElementById('thirt-two-ans');
-      const ThirtThree = document.getElementById('thirt-three-ans');
-      const ThirtFour = document.getElementById('thirt-four-ans');
-      const ThirtFive = document.getElementById('thirt-five-ans');
+      const Two = document.getElementById('two-ans').value;
+      const Three = document.getElementById('three-ans').value;
+      const Four = document.getElementById('four-ans').value;
+      const Five = document.getElementById('fiv-ans').value;
+      const Six = document.getElementById('six-ans').value;
+      const Seven = document.getElementById('sev-ans').value;
+      const Eight = document.getElementById('eig-ans').value;
+      const Nine = document.getElementById('nin-ans').value;
+      const Ten = document.getElementById('ten-ans').value;
+      const Ele = document.getElementById('ele-ans').value;
+      const Twe = document.getElementById('twe-ans').value;
+      const thi = document.getElementById('thi-ans').value;
+      const fout = document.getElementById('fout-ans').value;
+      const fivt = document.getElementById('fivt-ans').value;
+      const sixt = document.getElementById('sixt-ans').value;
+      const sevt = document.getElementById('sevt-ans').value;
+      const eigt = document.getElementById('eigt-ans').value;
+      const nint = document.getElementById('nint-ans').value;
+      const Twen = document.getElementById('twen-ans').value;
+      const TweOne = document.getElementById('twe-one-ans').value;
+      const TweTwo = document.getElementById('twe-two-ans').value;
+      const TweThree = document.getElementById('twe-three-ans').value;
+      const TweFour = document.getElementById('twe-four-ans').value;
+      const TweFiv = document.getElementById('twe-fiv-ans').value;
+      const TweSix = document.getElementById('twe-six-ans').value;
+      const TweSev = document.getElementById('twe-sev-ans').value;
+      const TweEig = document.getElementById('twe-eig-ans').value;
+      const TweNin = document.getElementById('twe-nin-ans').value;
+      const Thirt = document.getElementById('thirt-ans').value;
+      const ThirtOne = document.getElementById('thirt-one-ans').value;
+      const ThirtTwo = document.getElementById('thirt-two-ans').value;
+      const ThirtThree = document.getElementById('thirt-three-ans').value;
+      const ThirtFour = document.getElementById('thirt-four-ans').value;
+      const ThirtFive = document.getElementById('thirt-five-ans').value;
 
       if (oneQ === One) {
         console.log("sucsess");
@@ -609,10 +609,26 @@
 
       } else {
         console.log("error");
+       
       }
       document.getElementById('anss').innerHTML = Answer;
-
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+  topFunction()
+      
+      btn.classList.add("display")
+      btn.classList.remove("button")
     })
-
+    window.onscroll= function(){ScrollP()};
+    function ScrollP(){
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        btn.style.display="block"
+      } else {
+        btn.style.display = "none";
+      }
+    }
+   
 
   
