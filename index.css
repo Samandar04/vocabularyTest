@@ -6,6 +6,15 @@ body{
 .flex-card{
   display: flex;
 }
+.red{
+  border: 1px solid red;
+}
+.true{
+  margin-top: 10px;
+  font-weight: bold;
+  color: #3e8e41;
+  font-size: 18px;
+}
 .body{
   width: 400px;
 background-color: aliceblue;

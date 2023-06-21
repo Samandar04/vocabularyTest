@@ -65,224 +65,225 @@
           `<div class="one-ques" >
        <p>Yolg'iz farzand</p>
        <input id="one-ans" placeholder="You answer"   type="text"> 
+       <div class="true" id="true1"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Qiz bola jiyan</p>
-       <input id="two-ans" placeholder="You answer"   type="text"> 
+       <input id="two-ans" placeholder="You answer"   type="text"> <div class="true" id="true2"></div>
       </div>
         `
       },
       {
         second: `<div class="one-ques" >
        <p>Amakivachcha</p>
-       <input id="three-ans" placeholder="You answer"   type="text"> </div>`
+       <input id="three-ans" placeholder="You answer"   type="text"> </div><div class="true" id="true3"></div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>O'g'il bola jiyan</p>
-       <input id="four-ans" placeholder="You answer"   type="text"> 
+       <input id="four-ans" placeholder="You answer"   type="text"> <div class="true" id="true4"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Beva</p>
-       <input id="fiv-ans" placeholder="You answer"   type="text"> 
+       <input id="fiv-ans" placeholder="You answer"   type="text"> <div class="true" id="true5"></div>
       </div>`,
       },
       {
         second: `
         <div class="one-ques" >
        <p>O'lim</p>
-       <input id="six-ans" placeholder="You answer"   type="text"> 
+       <input id="six-ans" placeholder="You answer"   type="text"> <div class="true" id="true6"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>To'y marosimi</p>
-       <input id="sev-ans" placeholder="You answer"   type="text"> 
+       <input id="sev-ans" placeholder="You answer"   type="text"> <div class="true" id="true7"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Dafn marosimi</p>
-       <input id="eig-ans" placeholder="You answer"   type="text"> 
+       <input id="eig-ans" placeholder="You answer"   type="text"> <div class="true" id="true8"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Lablar</p>
-       <input id="nin-ans" placeholder="You answer"   type="text"> 
+       <input id="nin-ans" placeholder="You answer"   type="text"> <div class="true" id="true9"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Miyya</p>
-       <input id="ten-ans" placeholder="You answer"   type="text"> 
+       <input id="ten-ans" placeholder="You answer"   type="text"> <div class="true" id="true10"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>I have pain ....my</p>
-       <input id="ele-ans" placeholder="You answer"   type="text"> 
+       <input id="ele-ans" placeholder="You answer"   type="text"> <div class="true" id="true11"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Kiymoq</p>
-       <input id="twe-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-ans" placeholder="You answer"   type="text"> <div class="true" id="true12"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Yechmoq</p>
-       <input id="thi-ans" placeholder="You answer"   type="text"> 
+       <input id="thi-ans" placeholder="You answer"   type="text"> <div class="true" id="true13"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>O'rta yoshli</p>
-       <input id="fout-ans" placeholder="You answer"   type="text"> 
+       <input id="fout-ans" placeholder="You answer"   type="text"> <div class="true" id="true14"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Tish og'rig'i</p>
-       <input id="fivt-ans" placeholder="You answer"   type="text"> 
+       <input id="fivt-ans" placeholder="You answer"   type="text"> <div class="true" id="true15"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Aksirmoq</p>
-       <input id="sixt-ans" placeholder="You answer"   type="text"> 
+       <input id="sixt-ans" placeholder="You answer"   type="text"> <div class="true" id="true16"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Shamollamoq</p>
-       <input id="sevt-ans" placeholder="You answer"   type="text"> 
+       <input id="sevt-ans" placeholder="You answer"   type="text"> <div class="true" id="true17"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Rak</p>
-       <input id="eigt-ans" placeholder="You answer"   type="text"> 
+       <input id="eigt-ans" placeholder="You answer"   type="text"> <div class="true" id="true18"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Sog' bo'ling</p>
-       <input id="nint-ans" placeholder="You answer"   type="text"> 
+       <input id="nint-ans" placeholder="You answer"   type="text"> <div class="true" id="true19"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Omad</p>
-       <input id="twen-ans" placeholder="You answer"   type="text"> 
+       <input id="twen-ans" placeholder="You answer"   type="text"> <div class="true" id="true20"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Tabriklayman</p>
-       <input id="twe-one-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-one-ans" placeholder="You answer"   type="text"> <div class="true" id="true21"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Tilaklar</p>
-       <input id="twe-two-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-two-ans" placeholder="You answer"   type="text"> <div class="true" id="true22"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Aslida</p>
-       <input id="twe-three-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-three-ans" placeholder="You answer"   type="text"> <div  class="true"id="true23"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Yana nimadir</p>
-       <input id="twe-four-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-four-ans" placeholder="You answer"   type="text"> <div class="true" id="true24"></div>
       </div>`
       },
       {
         second: `,
         <div class="one-ques" >
        <p>Tahminan</p>
-       <input id="twe-fiv-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-fiv-ans" placeholder="You answer"   type="text"> <div class="true" id="true25"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Shuning uchun</p>
-       <input id="twe-six-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-six-ans" placeholder="You answer"   type="text"> <div class="true" id="true26"></div>
       </div> `
       },
       {
         second: `
         <div class="one-ques" >
        <p>Menga farqi yo'q</p>
-       <input id="twe-sev-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-sev-ans" placeholder="You answer"   type="text"> <div class="true" id="true27"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Sizga bog'liq</p>
-       <input id="twe-eig-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-eig-ans" placeholder="You answer"   type="text"> <div class="true" id="true28"></div>
       </div>`
       },
       {
         second: `
         <div class="one-ques" >
        <p>Keling ...boraylik(taklif)</p>
-       <input id="twe-nin-ans" placeholder="You answer"   type="text"> 
+       <input id="twe-nin-ans" placeholder="You answer"   type="text"> <div class="true" id="true29"></div>
       </div>
         `
       },
       {
         second: `<div class="one-ques" >
        <p>Bu muhim emas</p>
-       <input id="thirt-ans" placeholder="You answer"   type="text"> 
+       <input id="thirt-ans" placeholder="You answer"   type="text"> <div class="true" id="true30"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Qanday achinarli</p>
-       <input id="thirt-one-ans" placeholder="You answer"   type="text"> 
+       <input id="thirt-one-ans" placeholder="You answer"   type="text"> <div class="true" id="true31"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Barakalla</p>
-       <input id="thirt-two-ans" placeholder="You answer"   type="text"> 
+       <input id="thirt-two-ans" placeholder="You answer"   type="text"> <div class="true" id="true32"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Shoshiling</p>
-       <input id="thirt-three-ans" placeholder="You answer"   type="text"> 
+       <input id="thirt-three-ans" placeholder="You answer"   type="text"> <div class="true" id="true33"></div>
       </div>`
       },
       {
@@ -290,12 +291,14 @@
         second: `<div class="one-ques" >
        <p>Ehtiyot bo'ling</p>
        <input id="thirt-four-ans" placeholder="You answer"   type="text"> 
+       <div  class="true" id="true34"></div>
       </div>`
       },
       {
         second: `<div class="one-ques" >
        <p>Roziman</p>
        <input id="thirt-five-ans" placeholder="You answer"   type="text"> 
+       <div class="true" id="true35"></div>
       </div>`
 
       },
@@ -390,120 +393,161 @@
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true1").innerHTML=oneQ
+        document.getElementById("one-ans").classList.add("red")
       }
       if (twoQ === Two) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true2").innerHTML=twoQ
+        document.getElementById("two-ans").classList.add("red")
       }
       if (threeQ === Three) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true3").innerHTML=threeQ
+        document.getElementById('three-ans').classList.add("red")
       }
       if (fourQ === Four) {
         console.log("sucsess");
+        
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true4").innerHTML=fourQ
+        document.getElementById("four-ans").classList.add("red")
       }
       if (fiveQ === Five) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true5").innerHTML=fiveQ
+        document.getElementById("fiv-ans").classList.add("red")
       }
       if (sixQ === Six) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true6").innerHTML=sixQ
+        document.getElementById("six-ans").classList.add("red")
       }
       if (sevenQ === Seven) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true7").innerHTML=sevenQ
+        document.getElementById("sev-ans").classList.add("red")
       }
       if (eightQ === Eight) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true8").innerHTML=eightQ
+        document.getElementById("eig-ans").classList.add("red")
       }
       if (nineQ === Nine) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true9").innerHTML=nineQ
+        document.getElementById("nin-ans").classList.add("red")
       }
       if (tenQ === Ten) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true10").innerHTML=tenQ
+        document.getElementById("ten-ans").classList.add("red")
       }
       if (eleQ === Ele) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true11").innerHTML=eleQ
+        document.getElementById("ele-ans").classList.add("red")
       }
       if (tweQ === Twe) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true12").innerHTML=tweQ
+        document.getElementById("twe-ans").classList.add("red")
       }
       if (thiQ === thi) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true13").innerHTML=thiQ
+        document.getElementById("thi-ans").classList.add("red")
       }
       if (foutQ === fout) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true14").innerHTML=foutQ
+        document.getElementById("fout-ans").classList.add("red")
       }
       if (fiftQ === fivt) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true15").innerHTML=fiftQ
+        document.getElementById("fivt-ans").classList.add("red")
       }
       if (sixtQ === sixt) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true16").innerHTML=sixtQ
+        document.getElementById("sixt-ans").classList.add("red")
       }
       if (sevtQ === sevt) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true17").innerHTML=sevtQ
+        document.getElementById("sevt-ans").classList.add("red")
       }
       if (eigtQ === eigt) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true18").innerHTML=eigtQ
+        document.getElementById("eigt-ans").classList.add("red")
       }
       if (nintQ === nint) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true19").innerHTML=nintQ
+        document.getElementById("nint-ans").classList.add("red")
       }
       if (twenQ === Twen) {
         console.log("sucsess");
         Answer++
       } else {
         console.log("error");
+        document.getElementById("true20").innerHTML=twenQ
+        document.getElementById("twen-ans").classList.add("red")
       }
       if (tweOneQ === TweOne) {
         console.log("sucsess");
@@ -511,6 +555,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true21").innerHTML=tweOneQ
+        document.getElementById("twe-one-ans").classList.add("red")
       }
       if (tweTwoQ === TweTwo) {
         console.log("sucsess");
@@ -518,6 +564,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true22").innerHTML=tweTwoQ
+        document.getElementById("twe-two-ans").classList.add("red")
       }
       if (twethreeQ === TweThree) {
         console.log("sucsess");
@@ -525,6 +573,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true23").innerHTML=twethreeQ
+        document.getElementById("twe-three-ans").classList.add("red")
       }
       if (twefourQ === TweFour) {
         console.log("sucsess");
@@ -532,6 +582,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true24").innerHTML=twefourQ
+        document.getElementById("twe-four-ans").classList.add("red")
       }
       if (twefivQ === TweFiv) {
         console.log("sucsess");
@@ -539,6 +591,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true25").innerHTML=twefivQ
+        document.getElementById("twe-fiv-ans").classList.add("red")
       }
       if (twesixQ === TweSix) {
         console.log("sucsess");
@@ -546,6 +600,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true26").innerHTML=twesixQ
+        document.getElementById("twe-six-ans").classList.add("red")
       }
       if (twesevQ === TweSev) {
         console.log("sucsess");
@@ -553,6 +609,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true27").innerHTML=twesevQ
+        document.getElementById("twe-sev-ans").classList.add("red")
       }
       if (tweeigQ === TweEig) {
         console.log("sucsess");
@@ -560,6 +618,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true28").innerHTML=tweeigQ
+        document.getElementById("twe-eig-ans").classList.add("red")
       }
       if (tweninQ === TweNin) {
         console.log("sucsess");
@@ -567,6 +627,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("true29").innerHTML=tweninQ
+        document.getElementById("twe-nin-ans").classList.add("red")
       }
       if (thirtQ === Thirt) {
         console.log("sucsess");
@@ -574,6 +636,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("thirt-ans").classList.add("red")
+        document.getElementById("true30").innerHTML=thirtQ
       }
       if (thirtoneQ === ThirtOne) {
         console.log("sucsess");
@@ -581,6 +645,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("thirt-one-ans").classList.add("red")
+        document.getElementById("true31").innerHTML=thirtoneQ
       }
       if (thirttwoQ === ThirtTwo) {
         console.log("sucsess");
@@ -588,6 +654,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("thirt-two-ans").classList.add("red")
+        document.getElementById("true32").innerHTML=thirttwoQ
       }
       if (thirtthreeQ === ThirtThree) {
         console.log("sucsess");
@@ -595,6 +663,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("thirt-three-ans").classList.add("red")
+        document.getElementById("true33").innerHTML=thirtthreeQ
       }
       if (thirtfourQ === ThirtFour) {
         console.log("sucsess");
@@ -602,6 +672,8 @@
 
       } else {
         console.log("error");
+        document.getElementById("thirt-four-ans").classList.add("red")
+        document.getElementById("true34").innerHTML=thirtfourQ
       }
       if (thirtfiveQ === ThirtFive) {
         console.log("sucsess");
@@ -609,7 +681,8 @@
 
       } else {
         console.log("error");
-       
+        document.getElementById("thirt-five-ans").classList.add("red")
+        document.getElementById("true35").innerHTML=thirtfiveQ
       }
       document.getElementById('anss').innerHTML = Answer;
       function topFunction() {
